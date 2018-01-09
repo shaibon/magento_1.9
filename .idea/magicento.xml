@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MagicentoSettings">
+    <option name="pathToMage" value="$PROJECT_DIR$/../zulu-mybeautik/app/Mage.php" />
+    <option name="enabled" value="false" />
+    <option name="projectClosedCorrectly" value="false" />
+    <option name="customSignatures" value="Mage_Sales_Model_Order.getPaymentsCollection = Mage_Sales_Model_Resource_Order_Payment_Collection;;MODEL=sales/order.getPaymentsCollection==RESOURCEMODEL=sales/order_payment_collection" />
+    <option name="d" value="PtBpYX8CYtu0CKPONZ6leIsLWaL6LYVq/8Ps1QLH6We7scG27NjDfnwh/UkODo7nVZq8JSd+14oR&#13;&#10;wkOKc9xifWKMeml6mu9tMLsyelmHeiksFUeWssYA0jCD6DnAKkw4V7st0an0u5uifEeB0xMYCaeq&#13;&#10;3g+3XQdy7snY5v+nvZU=&#13;&#10;" />
+  </component>
+</project>
